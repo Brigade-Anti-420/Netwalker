@@ -6,7 +6,7 @@
 
 -----
 
-### <p align="center">💨 Riptide 💨</p>
+### <p align="center">💨 Netwalker 💨</p>
 
 <br><br>
 <p align="center">
