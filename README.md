@@ -94,4 +94,4 @@ Made in Python
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">Brigade Anti-420</p>
