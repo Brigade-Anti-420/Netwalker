@@ -3,7 +3,6 @@ from pystyle import *
 from time import sleep
 import socket
 import os
-from time import sleep
 from progress.bar import Bar
 from progress.spinner import MoonSpinner
 ############################################################################
