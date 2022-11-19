@@ -43,7 +43,7 @@ Made in Python
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/380137557/d9ad89b2-95d7-42bb-a877-6fe8f293de8b" width="250", height="250">
+<img src="https://i.scdn.co/image/ab67706c0000bebb896c7600ece932f274a2f96d" width="250", height="250">
 </p>
 
 <br>
